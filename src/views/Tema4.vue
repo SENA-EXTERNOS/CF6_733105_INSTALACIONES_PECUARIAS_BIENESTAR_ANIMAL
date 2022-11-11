@@ -27,7 +27,7 @@
 
       .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #comportamiento-espacial-para-bovinos
           .titulo-segundo.color-acento-contenido
             h2 4.1 Comportamiento espacial para bovinos
 
@@ -52,7 +52,7 @@
 
       .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #comportamiento-espacial-para-pollo-de-engorde
           .titulo-segundo.color-acento-contenido
             h2 4.2 Comportamiento espacial para pollo de engorde
 
@@ -82,7 +82,7 @@
 
       .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #comportamiento-espacial-para-gallinas-ponedoras
           .titulo-segundo.color-acento-contenido
             h2 4.3 Comportamiento espacial para gallinas ponedoras
 
@@ -111,7 +111,7 @@
 
       .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #comportamiento-espacial-para-porcinos
           .titulo-segundo.color-acento-contenido
             h2 4.4 Comportamiento espacial para porcinos
           

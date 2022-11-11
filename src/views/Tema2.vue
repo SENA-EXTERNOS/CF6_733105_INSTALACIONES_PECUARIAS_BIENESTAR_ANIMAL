@@ -133,7 +133,7 @@
 
     .row.container.justify-content-around.align-items-center
 
-        #sanidad-animal-y-bioseguridad
+        #estructuras-para-la-sanidad-animal
         .titulo-segundo.color-acento-contenido
           h2 2.3 Estructuras para la sanidad animal
 

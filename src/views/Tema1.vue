@@ -75,7 +75,7 @@
     //
     .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
 
-        #sistemas-distribuidos
+        #ganaderia-ecologica
         .titulo-segundo.color-acento-contenido
           h2 1.1  Ganadería ecológica
 
@@ -98,7 +98,7 @@
 
     .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
 
-        #sistemas-distribuidos
+        #agricultura-alternativa-para-la-produccion-ganadera
         .titulo-segundo.color-acento-contenido
           h2 1.2  Agricultura alternativa para la producción ganadera
 
@@ -125,8 +125,8 @@
         figure
               img(src="@/assets/curso/temas/img-fondo-izq-prod-altern-tema1.png", alt="alt").img-fondo-izq-prod-alternativa
 
-        img-fondo-izq-prod-altern-tema1.png
-        #sistemas-distribuidos
+        
+        #labores-de-produccion-alternativa
         .titulo-segundo.color-acento-contenido
           h2 1.3  Labores de producción alternativa
         

@@ -40,7 +40,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Ganadería ecológica',
-            hash: 'ganadería-ecologica',
+            hash: 'ganaderia-ecologica',
           },
           {
             icono: 'far fa-file-alt',
@@ -74,13 +74,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.2',
             titulo: 'Sanidad animal y bioseguridad',
-            hash: 'Sanidad-animal-y-bioseguridad',
+            hash: 'sanidad-animal-y-bioseguridad',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
             titulo: 'Estructuras para la sanidad animal',
-            hash: 'labores-de-produccion-alternativa',
+            hash: 'estructuras-para-la-sanidad-animal',
           },
         ],
       },
@@ -95,7 +95,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.1',
             titulo: 'Instalaciones para bovinos',
-            hash: 'Instalaciones-para-bovinos',
+            hash: 'instalaciones-para-bovinos',
           },
           {
             icono: 'far fa-file-alt',
@@ -116,7 +116,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '4.1',
             titulo: 'Comportamiento espacial para bovinos',
-            hash: 'Instalaciones-para-bovinos',
+            hash: 'comportamiento-espacial-para-bovinos',
           },
           {
             icono: 'far fa-file-alt',
@@ -149,13 +149,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '5.1',
             titulo: 'Ciclo productivo en ganadería',
-            hash: 'Instalaciones-para-bovinos',
+            hash: 'ciclo-productivo-en-ganaderia',
           },
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
             titulo: 'Ciclo productivo de los porcinos',
-            hash: 'instalaciones-para-porcinos',
+            hash: 'ciclo-productivo-de-los-porcinos',
           },
           {
             icono: 'far fa-file-alt',

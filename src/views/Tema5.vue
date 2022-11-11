@@ -44,7 +44,7 @@
 
         .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #ciclo-productivo-en-ganaderia
           .titulo-segundo.color-acento-contenido
             h2 5.1 Ciclo productivo en ganadería
 
@@ -175,7 +175,7 @@
 
         .row.container.justify-content-around.align-items-center
 
-          #manejo_y_uso_sostenible_del_agua
+          #ciclo-productivo-de-los-porcinos
           .titulo-segundo.color-acento-contenido
             h2 5.2 Ciclo productivo de los porcinos
           
@@ -219,7 +219,7 @@
 
         .row.container.justify-content-around.align-items-center
           
-          #manejo_y_uso_sostenible_del_agua
+          #ciclo-productivo-para-las-aves
           .titulo-segundo.color-acento-contenido
             h2 5.3 Ciclo productivo para las aves
 
@@ -283,9 +283,9 @@
 
         .row.container.justify-content-around.align-items-center
 
-            #manejo_y_uso_sostenible_del_agua
+            #equipos-insumos-y-herramientas-de-manejo-animal
             .titulo-segundo.color-acento-contenido
-              h2 5.4 Equipos, insumos y herramientas de manejo animal.
+              h2 5.4 Equipos, insumos y herramientas de manejo animal
             
             ImagenInfografica.color-primario
               template(v-slot:imagen)
@@ -323,7 +323,7 @@
     
         .row.container.justify-content-around.align-items-center
 
-            #manejo_y_uso_sostenible_del_agua
+            #factores-climaticos
             .titulo-segundo.color-acento-contenido
               h2 5.5 Factores climáticos
             

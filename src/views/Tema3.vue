@@ -83,7 +83,7 @@
 
     .row.container.justify-content-around.align-items-center
         
-        #sanidad-animal-y-bioseguridad
+        #instalaciones-para-bovinos
         .titulo-segundo.color-acento-contenido
           h2 3.1 Instalaciones para bovinos
         
@@ -153,7 +153,7 @@
     
     .row.container.justify-content-around.align-items-center
 
-        #sanidad-animal-y-bioseguridad
+        #instalaciones-para-porcinos
         .titulo-segundo.color-acento-contenido
           h2 3.2 Instalaciones para porcinos
         
