@@ -17,12 +17,12 @@
             figure
               img(data-aos="fade-left")(src='@/assets/curso/temas/img1-tema3.png' alt='AvatarTop')
     br
-    br
-    br
+
+    //SLIDER
     
     .row.container.justify-content-around.align-items-center
 
-      .tarjeta.p-4
+      .tarjeta.bloque-slider1-tema3.p-4
         figure
                 img(src='@/assets/curso/temas/img-fondo-slider-tema3.png', alt='Texto que describa la imagen').img-fondo-slider-tema3
         SlyderA(tipo="b")

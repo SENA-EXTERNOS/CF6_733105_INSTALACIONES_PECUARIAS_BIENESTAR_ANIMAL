@@ -29,6 +29,7 @@
               img(src="@/assets/curso/temas/img-tar1-tema2.png", alt="alt").img-tar1-verde-tema2
     br
     br
+    br
     separador
         
     .row.container.justify-content-around.align-items-center

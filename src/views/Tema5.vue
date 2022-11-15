@@ -19,7 +19,7 @@
             
             .col-lg-5
               figure
-                  img(src='@/assets/curso/temas/img1-tema5.png' alt='AvatarTop')
+                  img(src='@/assets/curso/temas/img1-tema5.png' alt='AvatarTop').img1-tema5
 
         br
         br
@@ -122,14 +122,14 @@
 
             p El resumen de la vida productiva de la vaca se encuentra plasmado en el siguiente cuadro.
 
-            .row
-              .col-lg-12.diagrama-ciclo-prod-ganado.tarjeta.p-4
+
+            .col-lg-12.p-4
                 
                 figure
-                    img(src='@/assets/curso/temas/diagrama-ciclo-prod-ganado.png' alt='AvatarTop')
+                    img(src='@/assets/curso/temas/diagrama-ciclo-prod-ganado2.png' alt='AvatarTop').img-diagrama-ciclo-prod-ganado
+
+        br                
         br  
-        br  
-        br
 
         .row.container.justify-content-around.align-items-center
       
@@ -225,26 +225,19 @@
 
           TabsC.color-primario.fondo-tabs-horiz-tema5
             .py-3.py-md-4(titulo="Ciclo productivo de las aves")
-              .row
+              .row.bloque-tar1-slider
                 .col-md-4.mb-2.mb-md-0
                   p.texto-tabs-horiz-tema5 Se pueden utilizar las aves para la producción de huevos y para producir carne.
                 
-                .titulo-sexto.color-acento-contenido.texto-titulo-img1-tabs-horiz-tema5.mb-3
-                      h5 Figura 17.
-                      span <em>Ciclo productivo de las aves</em>
-              
-                .row
-  
-                  .col-md-4.tarjeta.fila-img1-tabs-horiz-tema5
-                    
-                    figure
-                      img(src='@/assets/curso/temas/img1-prod-carne-tema5-p.png', alt='Texto que describa la imagen')
-                    
 
-                  .col-md-4.tarjeta.fila-img1-tabs-horiz-tema5
 
+   
+                .col-md-8.fila-img1-tabs-horiz-tema5.tarjeta
+                    .titulo-sexto.color-acento-contenido.texto-titulo-img1-tabs-horiz-tema5.mb-3
+                        h5 Figura 17.
+                        span <em>Ciclo productivo de las aves</em>
                     figure
-                      img(src='@/assets/curso/temas/img-prod-huevos-tema5-p.png', alt='Texto que describa la imagen').img1-2-tabs-horiz-tema5
+                      img(src='@/assets/curso/temas/img1-prod-carne-y-huevos-tema5-2.png', alt='Texto que describa la imagen').img1-2-tabs-horiz-tema5
 
 
             .py-3.py-md-4(titulo="Ciclo productivo para las aves de postura.")
@@ -276,7 +269,8 @@
                     img(src='@/assets/curso/temas/img-fig-19-tema5.png', alt='Texto que describa la imagen').img3-tabs-horiz-tema5.tarjeta.p-4
                     //figcaption Leyenda de la imagen
         
-        
+          p.texto-final-tema5-3 En el siguiente apartado se describen algunos equipos, insumos y herramientas necesarios para el manejo animal, que facilitan las tareas en campo.
+                    
         br
         br
         br

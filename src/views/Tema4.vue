@@ -95,10 +95,10 @@
           .row.bloque-comp-pollo-engorde
 
 
-            .col-lg-6
+            .col-lg-7
                 figure
                   img(src='@/assets/curso/temas/tabla-gallinas-ponedoras.png' alt='AvatarTop').img-tabla-gallinas-ponedoras
-            .col-lg-6
+            .col-lg-5
                 figure
                   img(data-aos="fade-left")(src='@/assets/curso/temas/img-gallinas-ponedoras.png' alt='AvatarTop').img-gallinas-ponedoras
 

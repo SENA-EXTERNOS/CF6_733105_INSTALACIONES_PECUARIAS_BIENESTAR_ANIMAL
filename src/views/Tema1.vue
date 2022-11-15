@@ -103,17 +103,25 @@
           h2 1.2  Agricultura alternativa para la producción ganadera
 
         .row.color-der-tarj-agricultura-altern
-          .col-lg-7
-            .texto-tarj-agricultura-altern.p-3
+  
+          .col-lg-7.mb-5.mb-lg-0
+            .texto-tarj-agricultura-altern.p-2
               p En la agricultura alternativa, la preocupación de los productores agropecuarios radica en si es posible producir grandes cantidades de alimentos sanos, naturales y de calidad, sin necesidad de destruir el planeta y sin verse obligados a emplear productos tóxicos como los agroquímicos.
               p La agroecología es una combinación de prácticas, por ejemplo, de producción y reciclaje de productos. Se compone, además, de interrelaciones como labores en el suelo con la planta y los microorganismos, la de los animales con el ser humano o la rotación y asociación de cultivos, lo que lleva a lograr, con éxito, una producción que es amigable con el ambiente y que no causa alteraciones en los ciclos de recursos no renovables. 
               p A continuación, se evidencian algunas labores que se realizan en producciones limpias.
+          
 
           .col-lg-5
 
               figure
                   img(data-aos="fade-left")(src="@/assets/curso/temas/img-agricultura-alternativa.png", alt="alt").imagen-tarj-agricultura-altern
-
+          
+          p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto officiis nisi voluptatibus, natus non! Veniam ad provident suscipit rem quam enim voluptatum dignissimos perspiciatis fuga. Quam laborum vitae nemo.
+          p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto officiis nisi voluptatibus, natus non! Veniam ad provident suscipit rem quam enim voluptatum 
+     
+     
+    br
+    br
     br
 
     separador
@@ -133,11 +141,11 @@
         p Las labores en la producción alternativa asociadas a la ganadería ecológica se encuentran descritas a continuación.
 
         .row.justify-content-center.mb-5
-          .col-8.col-lg-4
+          .col-lg-5
             figure
               img(src="@/assets/curso/temas/img-der-pasos-verticales-prod-altern-tema1.png", alt="alt").img-izq-prod-alternativa
               
-          .col-lg-8
+          .col-lg-7
             LineaTiempoD.color-secundario
               p(numero="1" titulo="Compostaje") Transforma desechos animales y vegetales en fertilizantes vivos de alta calidad, para uso del suelo.
 
