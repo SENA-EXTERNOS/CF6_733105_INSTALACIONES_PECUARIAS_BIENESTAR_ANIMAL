@@ -26,7 +26,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Relación de conceptos
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_didáctica-CF6-T_733105/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
