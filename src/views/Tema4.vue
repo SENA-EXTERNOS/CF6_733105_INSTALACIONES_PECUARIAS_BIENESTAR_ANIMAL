@@ -86,11 +86,11 @@
           .titulo-segundo.color-acento-contenido
             h2 4.3 Comportamiento espacial para gallinas ponedoras
 
-          p El espacio ideal para la explotación avícola dependerá del clima y de la edad. En temperaturas altas el rango está entre 6 a 7 animales por metro cuadrado, en climas templados entre 8 a 9 animales y, en condiciones de frío máximo, 10 animales por metro cuadrado. En la siguiente tabla se evidencia la densidad de aves según la edad.
+          p Cuando son criados en piso y los animales se encuentran próximos a la edad de producción, es decir, entre las 12 y 14 semanas, se podrán ingresar entre 10 y 12 gallinas por metro cuadrado. Pero, cuando la producción es en jaula, la medida oscila, generalmente, entre 0,8 y 1 gallina por metro cuadrado.
           
           .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 8.
-              span <em>Densidad de pollos según la edad.</em>
+              span <em>Densidad de gallinas según la etapa</em>
 
           .row.bloque-comp-pollo-engorde
 

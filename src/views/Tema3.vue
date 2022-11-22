@@ -130,6 +130,7 @@
               .col-md-6
                 //h4 Celebrate your failures 2
                 p Un comedero es el lugar donde se suministra la comida. Estos implementos deben contar con superficies internas lisas que eviten que el forraje se pegue. Así mismo, debe estar cubierto por un techo en las épocas de lluvia, evitando que el alimento se moje. Los comederos pueden estar elaborados con materiales como concreto o usando materiales que se encuentran dentro del predio como plásticos o maderas. 
+                p Los saladeros deben tener las mismas dimensiones del alimentador y, por la composición de la sal, deben estar protegidos del sol y la lluvia. Por lo general, cuando no se poseen recursos, los bebederos están hechos de tinas de plástico, pero, en ese caso, su limpieza debe ser constante debido a los riesgos de contaminación por residuos de alimentos, materia fecal o por insectos.
           
               .col-md-6.mb-4.mb-md-0
                 figure

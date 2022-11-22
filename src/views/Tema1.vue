@@ -88,7 +88,7 @@
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 2. Ganadería agroecológica
               figure
-                  img(src="@/assets/curso/temas/cuadro-conc-ganaderia-tema1.png", alt="alt").cuadro-conc-ganaderia-tema1
+                  img(src="@/assets/curso/temas/cuadro2-conc-ganaderia-tema1.png", alt="alt").cuadro-conc-ganaderia-tema1
             
         p.texto-final-gan-ecologica Como hemos visto la ganadería ecológica, se asocia con otras agriculturas alternativas, buscando  minimizar los riesgos a la salud de los cultivos y del ambiente, por ello, es importante aplicar este principio sobre el manejo de cultivos para mejorar rendimientos y producción, cuidando, siempre, el ambiente.
 

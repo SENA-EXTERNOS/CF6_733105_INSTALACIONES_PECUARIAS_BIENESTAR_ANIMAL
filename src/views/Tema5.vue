@@ -56,8 +56,7 @@
               h4 Ganadería de leche:
 
               p A continuación, se describen los ciclos productivos de la ganadería de leche.
-              h4 Listado no ordenado color
-              
+  
               ul.lista-ul--color
                 p La vida productiva de una vaca lechera comprende dos partes: crianza y producción.
                 li 
@@ -126,7 +125,7 @@
             .col-lg-12.p-4
                 
                 figure
-                    img(src='@/assets/curso/temas/diagrama-ciclo-prod-ganado2.png' alt='AvatarTop').img-diagrama-ciclo-prod-ganado
+                    img(src='@/assets/curso/temas/diagrama2-ciclo-prod-ganado2.png' alt='AvatarTop').img-diagrama-ciclo-prod-ganado
 
         br                
         br  
@@ -252,8 +251,9 @@
                     h5 Figura 18.
                     span <em>Etapa productiva de las aves.</em>
                   figure
-                    img(src='@/assets/curso/temas/cuadro-fig-18-tema5.png', alt='Texto que describa la imagen').img2-tabs-horiz-tema5.tarjeta.p-4
+                    img(src='@/assets/curso/temas/img-fig-19-tema5.png', alt='Texto que describa la imagen').img3-tabs-horiz-tema5.tarjeta.p-4
                     //figcaption Leyenda de la imagen
+                    
                 
             .py-3.py-md-4(titulo="Etapa productiva de las aves.")
               .row
@@ -266,8 +266,9 @@
                     h5 Figura 19.
                     span <em>Ciclo productivo de las aves de postura</em>
                   figure
-                    img(src='@/assets/curso/temas/img-fig-19-tema5.png', alt='Texto que describa la imagen').img3-tabs-horiz-tema5.tarjeta.p-4
+                    img(src='@/assets/curso/temas/cuadro-fig-18-tema5.png', alt='Texto que describa la imagen').img2-tabs-horiz-tema5.tarjeta.p-4
                     //figcaption Leyenda de la imagen
+
         
           p.texto-final-tema5-3 En el siguiente apartado se describen algunos equipos, insumos y herramientas necesarios para el manejo animal, que facilitan las tareas en campo.
                     

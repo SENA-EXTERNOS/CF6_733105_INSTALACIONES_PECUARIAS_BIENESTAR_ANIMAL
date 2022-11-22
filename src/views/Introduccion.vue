@@ -25,6 +25,14 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
+    br
+    br
+    br
+    
+    .row.justify-content-around.align-items-center
+      .row 
+        .col-lg-12
+          p A continuación, encontrará los principios de la ganadería ecológica, práctica fundamental en los sistemas agroecológicos que posee un componente pecuario.
     
 </template>
 
