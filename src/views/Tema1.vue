@@ -101,7 +101,7 @@
           | La agroecología es una combinación de prácticas, por ejemplo, de producción y reciclaje de productos. Se compone, además, de interrelaciones como labores en el suelo con la planta y los microorganismos, la de los animales con el ser humano o la rotación y asociación de cultivos, lo que lleva a lograr, con éxito, una producción que es amigable con el ambiente y que no causa alteraciones en los ciclos de recursos no renovables. 
           br
           br
-          | A continuación, se evidencian algunas labores que se realizan en producciones limpias.
+          | A continuación, se evidencian algunas labores que se realizan en producciones limpias:
 
 
     br

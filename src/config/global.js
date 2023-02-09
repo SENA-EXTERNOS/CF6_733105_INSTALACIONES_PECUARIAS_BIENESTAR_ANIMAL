@@ -231,7 +231,7 @@ export default {
       referencia:
         'Rodríguez, A. (2019). Limpieza y desinfección, un paso importante en la bioseguridad. <i>Porcicultura,</i> 21(131), p. 32-41. ',
       link:
-        'https://bmeditores.mx/porcicultura/revistas/septiembre-octubre-2019/',
+        'https://bmeditores.mx/porcicultura/limpieza-y-desinfeccion-un-paso-importante-en-la-bioseguridad-estudio-de-revision/',
     },
     {
       referencia:

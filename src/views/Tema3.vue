@@ -173,7 +173,7 @@
 
                 .row(titulo="Canales de desagüe")
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Con pendiente del 3% para facilitar la salida de desperdicios como residuos y materias fecales, de esta forma, son transportados hasta el tanque estercolero.
+                    p.texto-fondo-acordeon-tema3.mb-0 Con pendiente del 3 % para facilitar la salida de desperdicios como residuos y materias fecales, de esta forma, son transportados hasta el tanque estercolero.
                 
                 .row(titulo="Muros y divisiones entre corrales")
                   .col-12

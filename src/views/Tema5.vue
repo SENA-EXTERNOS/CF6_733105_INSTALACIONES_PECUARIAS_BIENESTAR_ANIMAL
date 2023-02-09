@@ -173,7 +173,7 @@
         
 
       h2 Ciclo productivo para las aves
-      p.mb-5 Los ciclos productivos de las aves difieren a otras especies, depende si son pollos de engorde o gallinas ponedoras. A continuación, se brinda mayor información. 
+      p.mb-5 Los ciclos productivos de las aves difieren a otras especies, depende si son pollos de engorde o gallinas ponedoras. A continuación, se brinda mayor información: 
 
       .row.container.justify-content-around.align-items-center
         
@@ -184,13 +184,12 @@
                 p.texto-tabs-horiz-tema5 Se pueden utilizar las aves para la producción de huevos y para producir carne. 
 
               .col-md-8.fila-img1-tabs-horiz-tema5.tarjeta
-                  .titulo-sexto.color-acento-contenido.texto-titulo-img1-tabs-horiz-tema5.mb-3
 
                   figure
                     img(src='@/assets/curso/temas/img1-prod-carne-y-huevos-tema5-2.png', alt='Texto que describa la imagen').img1-2-tabs-horiz-tema5
 
 
-          .py-3.py-md-4(titulo="Ciclo productivo para las aves de postura.")
+          .py-3.py-md-4(titulo="Ciclo productivo para las aves de postura")
             .row
 
               .col-md-6
@@ -202,7 +201,7 @@
                   img(src='@/assets/curso/temas/img-fig-19-tema5.png', alt='Texto que describa la imagen').img3-tabs-horiz-tema5.tarjeta.p-4
                   
               
-          .py-3.py-md-4(titulo="Etapa productiva de las aves.")
+          .py-3.py-md-4(titulo="Etapa productiva de las aves")
             .row.justify-content-center.align-items-center.mb-5
               .col-md-6
                 p La producción de carne, dura un periodo de 0 días hasta el día 35, cuanto los animales tienen 2 Kg de peso. 
