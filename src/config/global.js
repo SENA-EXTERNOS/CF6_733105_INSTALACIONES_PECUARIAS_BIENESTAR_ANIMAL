@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Instalaciones pecuarias y bienestar animal',
     descripcionCurso:
-      'El objetivo de este componente es comprender,  la producción animal agroecológica, estudiando y evaluando los conceptos de alojamiento de las especies pecuarias, como sus tipos y condiciones de seguridad y habitabilidad, ubicación, orientación, áreas, dimensiones, instalaciones, capacidad instalada, materiales de construcción, equipos, etc.',
+      'El objetivo de este componente es el de comprender, desde una amplia perspectiva, la producción animal agroecológica, estudiando y evaluando tanto los conceptos de alojamiento de las especies pecuarias, como sus tipos y condiciones de seguridad y habitabilidad, ubicación, orientación, áreas, dimensiones, instalaciones, capacidad instalada, materiales de construcción, equipos, etc.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
@@ -35,26 +35,6 @@ export default {
         numero: '1',
         titulo: 'Principios de ganadería agroecológica',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Ganadería ecológica',
-            hash: 'ganaderia-ecologica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Agricultura alternativa para la producción ganadera',
-            hash: 'agricultura-alternativa-para-la-produccion-ganadera',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Labores de producción alternativa',
-            hash: 'labores-de-produccion-alternativa',
-          },
-        ],
       },
 
       {
@@ -63,26 +43,6 @@ export default {
         numero: '2',
         titulo: 'Bienestar animal',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Buenas prácticas pecuarias',
-            hash: 'buenas-practicas-pecuarias',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Sanidad animal y bioseguridad',
-            hash: 'sanidad-animal-y-bioseguridad',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Estructuras para la sanidad animal',
-            hash: 'estructuras-para-la-sanidad-animal',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -90,20 +50,6 @@ export default {
         numero: '3',
         titulo: 'Alojamiento de las especies pecuarias de interés zootécnico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Instalaciones para bovinos',
-            hash: 'instalaciones-para-bovinos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Instalaciones para porcinos',
-            hash: 'instalaciones-para-porcinos',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -111,77 +57,12 @@ export default {
         numero: '4',
         titulo: 'Comportamiento espacial',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Comportamiento espacial para bovinos',
-            hash: 'comportamiento-espacial-para-bovinos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Comportamiento espacial para pollo de engorde',
-            hash: 'comportamiento-espacial-para-pollo-de-engorde',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Comportamiento espacial para gallinas ponedoras',
-            hash: 'comportamiento-espacial-para-gallinas-ponedoras',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Comportamiento espacial para porcinos',
-            hash: 'comportamiento-espacial-para-porcinos',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
         titulo: 'Etapas productivas de las especies pecuarias',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Ciclo productivo en ganadería',
-            hash: 'ciclo-productivo-en-ganaderia',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Ciclo productivo de los porcinos',
-            hash: 'ciclo-productivo-de-los-porcinos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Ciclo productivo para las aves',
-            hash: 'ciclo-productivo-para-las-aves',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.4',
-            titulo: 'Equipos, insumos y herramientas de manejo animal.',
-            hash: 'equipos-insumos-y-herramientas-de-manejo-animal',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.5',
-            titulo: 'Factores climáticos',
-            hash: 'factores-climaticos',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema6',
-        icono: 'far fa-file-alt',
-        numero: '6',
-        titulo: 'Conceptos de limpieza',
         desarrolloContenidos: true,
       },
     ],
@@ -227,31 +108,30 @@ export default {
   },
   complementario: [
     {
-      tema: 'Bienestar animal: “concepto y fundamentos”',
+      tema: 'Bienestar animal',
       referencia:
-        'Torres, M,G., y Peralta J,J. (2021) Bienestar animal: concepto y fundamento. Universidad Autónoma del Estado de Hidalgo.',
+        'Torres, M. G. y Peralta J. J. (2021) <i>Bienestar animal: concepto y fundamento.</i> Universidad Autónoma del Estado de Hidalgo.',
       tipo: 'Artículo',
       link: 'https://repository.uaeh.edu.mx/bitstream/handle/123456789/19918',
     },
     {
-      tema: 'Buenas prácticas pecuarias (BPP)',
+      tema: 'Alojamiento de las especies pecuarias de interés zootécnico',
       referencia:
-        'Coasgrop. (2021). Buenas prácticas pecuarias (BPP) [Vídeo]. YouTube',
+        'Coasgrop. (2021). <i>Buenas prácticas pecuarias</i> (BPP) [video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/cN6lFxETmr8',
     },
     {
-      tema:
-        'Manejar alojamientos de infraestructura en el componente pecuario, con criterios técnicos y ecológicos y de bienestar animal',
+      tema: 'Alojamiento de las especies pecuarias de interés zootécnico',
       referencia:
-        'García, A., y Patiño, E. (s.f.) Guía 7: Pecuarias. Servicio Nacional de Aprendizaje.',
+        'García, A. y Patiño, E. (s.f.).<i> Guía 7: Pecuarias.</i> Servicio Nacional de Aprendizaje. ',
       tipo: 'Otro',
       link: 'https://www.webcolegios.com/file/c90ff8.pdf',
     },
     {
       tema: 'Principios de la ganadería agroecológica',
       referencia:
-        'Ecología Verde. (2018). ¿Qué es la agroecología? [Video]. YouTube. ',
+        'Ecología Verde. (2018). ¿Qué es la agroecología? [video]. YouTube. ',
       tipo: 'video',
       link: 'https://youtu.be/NJ1CBZ34WyQ',
     },
@@ -309,7 +189,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Cardona, A., Henao, S., Jiménez, H., Mejía, G., Muñoz, F., Naranjo, J., Palomino, P., Ramírez, R., Ruiz, J., & Úsuga, A. (2018). <em>Implementación de buenas prácticas ganaderas: principios básicos.</em> Universidad CES.',
+        'Cardona, A., Henao, S., Jiménez, H., Mejía, G., Muñoz, F., Naranjo, J., Palomino, P., Ramírez, R., Ruiz, J. & Úsuga, A. (2018).<i> Implementación de buenas prácticas ganaderas: principios básicos.</i> Universidad CES.',
       link:
         'https://repository.ces.edu.co/bitstream/handle/10946/3585/Implemetaci%F3n-de-Buenas-Pr%E1cticas-Ganaderas-principios-b%E1sicos.pdf;jsessionid=001849FA9CBB8A7D4CACEAF2CD4E5E52?sequence=1',
     },
@@ -326,7 +206,7 @@ export default {
     },
     {
       referencia:
-        'Palomino, P. (2018). Las buenas prácticas ganaderas para el mejoramiento de la productividad. <em>Medicina Veterinaria y Zootécnica,</em> 13(2), p. 101.',
+        'Palomino, P. (2018). Las buenas prácticas ganaderas para el mejoramiento de la productividad. <em>Medicina Veterinaria y Zootécnica, 13(2),</em> p. 101.',
       link: 'https://revistas.ces.edu.co/index.php/mvz/article/view/4749/2919',
     },
     {
@@ -349,7 +229,7 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, A. (2019). Limpieza y desinfección, un paso importante en la bioseguridad. <em>Porcicultura,</em> 21(131), p. 32-41.',
+        'Rodríguez, A. (2019). Limpieza y desinfección, un paso importante en la bioseguridad. <i>Porcicultura,</i> 21(131), p. 32-41. ',
       link:
         'https://bmeditores.mx/porcicultura/revistas/septiembre-octubre-2019/',
     },

@@ -9,7 +9,7 @@
 
     .row.container.justify-content-around.align-items-center
       
-      p Existen otros lugares para el alojamiento de las especies pecuarias, importantes para el manejo de los animales, como se aprecia a continuación.
+      p El alojamiento de las especies para la producción, deben estar adecuados según las necesidades, particularidades y destino de los animales. Existen algunos lugares, con especificaciones propias, para el alojamiento de las especies pecuarias. Tales especificaciones son claves para el manejo de los animales, como se aprecia a continuación:
 
 
       .row
@@ -75,19 +75,13 @@
             .col-md-6.mb-4.mb-md-0
               p.texto-slider-tema3 Existen instalaciones pecuarias importantes para complementar el manejo de los animales, no solo de interés zoonótico, sino para otras labores de manejo de animales, por ejemplo, para la alimentación, la gestación y el ordeño. 
 
-      p.texto-inf-slider-tema3 A continuación, se detallan las instalaciones para los bovinos.
-    
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
+
+    .row.container.justify-content-around.align-items-center.mb-5
         
-        #instalaciones-para-bovinos
-        .titulo-segundo.color-acento-contenido
-          h2 3.1 Instalaciones para bovinos
+        h2 Instalaciones para bovinos
         
-        p A continuación, se detallan algunas características a tener en cuenta en las instalaciones pecuarias de bovinos.
+        p A continuación, se detallan algunas características a tener en cuenta, en las instalaciones pecuarias de bovinos:
 
         TabsC.color-primario.fondo-tabs-horizontales-tema3
         
@@ -149,16 +143,13 @@
                   //figcaption Leyenda de la imagen
         P.texto-inf-tabs-vert-tema3 Las instalaciones pecuarias para los porcinos se diferencian de las de los bovinos. A continuación, se aprecian estas diferencias.
     
-    br
-    separador
+
     
     .row.container.justify-content-around.align-items-center
 
-        #instalaciones-para-porcinos
-        .titulo-segundo.color-acento-contenido
-          h2 3.2 Instalaciones para porcinos
+        h2 Instalaciones para porcinos
         
-        p A continuación, se detallan algunas características a tener en cuenta en las instalaciones pecuarias de porcinos
+        p Las instalaciones pecuarias para los porcinos se diferencian de las de los bovinos. A continuación, se detallan algunas características a tener en cuenta, en las instalaciones pecuarias para porcinos:
 
         .bg--img_03
           .row.justify-content-center.mb-4
@@ -178,7 +169,7 @@
 
                 .row(titulo="Pisos")
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Se recomienda que sea de concreto, si es en tierra se debe usar cama profunda. Su inclinación mínima debe ser del 3%, esto facilita la limpieza y el drenaje de los corrales. El desnivel debe ir contrario a la postura de los comederos y bebederos para permitir la salida del estiércol sin contaminar.  Por normas de sanidad, cada corral debe contar con un sifón individual.
+                    p.texto-fondo-acordeon-tema3.mb-0 Se recomienda que sea de concreto, si es en tierra se debe usar cama profunda. Su inclinación mínima debe ser del 3 %, esto facilita la limpieza y el drenaje de los corrales. El desnivel debe ir contrario a la postura de los comederos y bebederos para permitir la salida del estiércol sin contaminar.  Por normas de sanidad, cada corral debe contar con un sifón individual.
 
                 .row(titulo="Canales de desagüe")
                   .col-12
@@ -201,10 +192,7 @@
                     p.texto-fondo-acordeon-tema3.mb-0 A continuación, en la siguiente infografía, observe cuáles son los requerimientos mínimos para los comederos de los porcinos.
                     
     .row.container.justify-content-around.align-items-center
-
-          .titulo-sexto.color-acento-contenido.mb-3
-            h5 Figura 5. 
-            span <em>Requerimientos mínimos en el tamaño del comedero para porcinos</em>
+          span <em>Requerimientos mínimos en el tamaño del comedero para porcinos</em>
 
           .row
             .col-lg-12
@@ -212,7 +200,7 @@
               figure
                   img(src="@/assets/curso/temas/imagen-comedero-cerdos.png", alt="alt").imagen-comedero-cerdos
 
-          p.texto-final-comedero-porcinos Si bien las instalaciones para aves difieren de las de cerdos y bovinos, cumplen con las mismas funciones que ofrecen las demás instalaciones pecuarias. A continuación, se detallan estas instalaciones.
+
           
     br
     br
@@ -220,9 +208,10 @@
 
     .row.container.justify-content-around.align-items-center
       
-      h4 Instalaciones para aves.
+      h4 Instalaciones para aves 
 
-      p A continuación, se darán algunas características a tener en cuenta para las instalaciones pecuarias para aves.
+      p Si bien las instalaciones para aves difieren de las de cerdos y bovinos, cumplen con las mismas funciones que ofrecen las demás instalaciones pecuarias. A continuación, se detallan estas instalaciones: 
+      p A continuación, se darán algunas características a tener en cuenta para las instalaciones pecuarias para aves:
 
       .bg--img_03
           .row.justify-content-center.mb-4
@@ -249,7 +238,7 @@
                   .col-12
                     p.texto-fondo-acordeon-tema3.mb-0 Cada galpón necesita un área de almacenamiento, sobre todo, para el alimento y las provisiones que deben ser, mínimo, para 8 días.
       
-      p.texto-final-tema3 Según cada especie, se requieren unas condiciones especiales a tener en cuenta para el bienestar y la reproducción de los animales. A continuación, se describen estas condiciones.
+      p.texto-final-tema3 Según cada especie, se requieren unas condiciones especiales a tener en cuenta para el bienestar y la reproducción de los animales. 
 
 
 </template>

@@ -5,24 +5,20 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Principios de ganadería agroecológica
+      h1 Principios de la ganadería agroecológica 
       
     .row.container.justify-content-around.align-items-center
 
       p Al hablar de producción de ganado agroecológico, se debe enfocar la mirada en el suelo como recurso y factor determinante para la producción del alimento proveniente de animales con gran calidad sanitaria y nutritiva.
-
-
-      .row 
+      .row.mb-5 
         .col-lg-12
-            .titulo-sexto.color-acento-contenido.subtitulo-fig1-tema1.mb-3
-              h5 Figura 1.
-              span <em>Ganadería ecológica</em>
             figure
                 img(src="@/assets/curso/temas/img1-tema1.png", alt="alt").img1-tema1
-      
-      //Tarjetas conectadas verticales
+    br  
+    p Algunos aspectos claves de la producción agroecológica que se deben tener presentes, son:
       .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
         .col-lg-11.position-relative
+
         
           .crd.crd--avatarHorizontal.fondo-tarj-conectadas-tema1.tarjeta.crd--first.py-4
             .row.align-items-center
@@ -48,7 +44,7 @@
                   img(src="@/assets/curso/temas/img-opt-crecimiento-tema1.png", alt="alt").img100.imagenes-tarj-conectadas-tema1
               .col
                 h5.texto-tarj-conectadas-tema1 Optimizar el crecimiento y desarrollo
-                p.texto-tarj-conectadas-tema1 La producción agrícola es la práctica por la cual se obtienen productos de buena calidad, económicamente rentables y amigables con el ambiente. Para alcanzar estos objetivos, optimizar el crecimiento, adecaudo desarrollo de los cultivos, se deben tener en cuenta variables climáticas y biológicas, la composición del suelo, la topografía del terreno y la facilidad en la obtención del recurso hídrico.
+                p.texto-tarj-conectadas-tema1 La producción agrícola es la práctica por la cual se obtienen productos de buena calidad, económicamente rentables y amigables con el ambiente. Para alcanzar estos objetivos, y optimizar el crecimiento y desarrollo de los cultivos, se deben tener en cuenta variables climáticas y biológicas, la composición del suelo, la topografía del terreno y la facilidad en la obtención del recurso hídrico.
           .crd.crd--avatarHorizontal.fondo-tarj-conectadas-tema1.tar4-conectadas-tema1.tarjeta.crd--last.py-4
             .row.align-items-center
               .col-auto
@@ -66,79 +62,64 @@
               .col
                 h5.texto-tarj-conectadas-tema1 Manejo de las plagas
                 p.texto-tarj-conectadas-tema1 Otro punto a tener en cuenta es el manejo de las plagas, ya que constituyen la principal causa de pérdidas en las plantaciones. Los monitoreos para detectar las enfermedades asociadas a la plaga deben ser constantes, evitar emplear productos químicos para la erradicación de estas, pues su uso debe ser mínimo, preferiblemente nulo, lo que puede ser fácilmente subsanado incorporando, al predio, controladores biológicos como medida acorde a los principios agroecológicos.
-
-          p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem ipsam quaerat illum placeat, harum ea facere itaque nobis sequi, incidunt eaque omnis obcaecati mollitia minima cumque adipisci repellendus, quod dolore?
-      p.texto-final-tarj1-tema1 La ganadería ecológica busca un equilibrio entre el ambiente, los humanos, las plantas y los animales. A continuación, se presentan algunos aspectos a tener en cuenta.
-
-    separador
-
-    //
-    .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
-
-        #ganaderia-ecologica
-        .titulo-segundo.color-acento-contenido
-          h2 1.1  Ganadería ecológica
-
-        p Antes de ampliar los principios de la ganadería ecológica, se presenta, a continuación, un resumen gráfico de lo abordado en la sección anterior. 
-
-
-          
-        .row  
-          .col-lg-12
-              .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 2. Ganadería agroecológica
-              figure
-                  img(src="@/assets/curso/temas/cuadro2-conc-ganaderia-tema1.png", alt="alt").cuadro-conc-ganaderia-tema1
-            
-        p.texto-final-gan-ecologica Como hemos visto la ganadería ecológica, se asocia con otras agriculturas alternativas, buscando  minimizar los riesgos a la salud de los cultivos y del ambiente, por ello, es importante aplicar este principio sobre el manejo de cultivos para mejorar rendimientos y producción, cuidando, siempre, el ambiente.
-
     br
-    separador
     br
+    br
+    br
+        
+    figcaption.mt-5 <b>Nota importante:</b> la ganadería ecológica busca un equilibrio entre el ambiente, los humanos, las plantas y los animales. 
 
     .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
 
-        #agricultura-alternativa-para-la-produccion-ganadera
-        .titulo-segundo.color-acento-contenido
-          h2 1.2  Agricultura alternativa para la producción ganadera
+    h2 Ganadería ecológica
 
-        .row.color-der-tarj-agricultura-altern
-  
-          .col-lg-7.mb-5.mb-lg-0
-            .texto-tarj-agricultura-altern.p-2
-              p En la agricultura alternativa, la preocupación de los productores agropecuarios radica en si es posible producir grandes cantidades de alimentos sanos, naturales y de calidad, sin necesidad de destruir el planeta y sin verse obligados a emplear productos tóxicos como los agroquímicos.
-              p La agroecología es una combinación de prácticas, por ejemplo, de producción y reciclaje de productos. Se compone, además, de interrelaciones como labores en el suelo con la planta y los microorganismos, la de los animales con el ser humano o la rotación y asociación de cultivos, lo que lleva a lograr, con éxito, una producción que es amigable con el ambiente y que no causa alteraciones en los ciclos de recursos no renovables. 
-              p A continuación, se evidencian algunas labores que se realizan en producciones limpias.
-          
+    p Antes de ampliar los principios de la ganadería ecológica, profundice en las generalidades conceptuales y operativas que la fundamentan: 
+    
+    .row.justify-content-center.align-items-center.mb-5 
+      .col-lg-10.col-md-12
+          figure
+              img(src="@/assets/curso/temas/img-3.svg", alt="alt")
+        
+    p.texto-final-gan-ecologica Como hemos visto la ganadería ecológica, se asocia con otras agriculturas alternativas, buscando  minimizar los riesgos a la salud de los cultivos y del ambiente, por ello, es importante aplicar este principio sobre el manejo de cultivos para mejorar rendimientos y producción, cuidando, siempre, el ambiente.
 
-          .col-lg-5
+    
 
-              figure
-                  img(data-aos="fade-left")(src="@/assets/curso/temas/img-agricultura-alternativa.png", alt="alt").imagen-tarj-agricultura-altern
-          
-          p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto officiis nisi voluptatibus, natus non! Veniam ad provident suscipit rem quam enim voluptatum dignissimos perspiciatis fuga. Quam laborum vitae nemo.
-          p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod architecto officiis nisi voluptatibus, natus non! Veniam ad provident suscipit rem quam enim voluptatum 
+    .row.justify-content-center.mb-5.bloque-tarj-conectadas-tema1
+
+          h2.mb-5 Agricultura alternativa para la producción ganadera
+
+
      
-     
-    br
-    br
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.fnd-1.bl-izq 
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/img-agricultura-alternativa.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p En la agricultura alternativa, la preocupación de los productores agropecuarios radica en si es posible producir grandes cantidades de alimentos sanos, naturales y de calidad, sin necesidad de destruir el planeta y sin verse obligados a emplear productos tóxicos como los agroquímicos.
+          br
+          br
+          | La agroecología es una combinación de prácticas, por ejemplo, de producción y reciclaje de productos. Se compone, además, de interrelaciones como labores en el suelo con la planta y los microorganismos, la de los animales con el ser humano o la rotación y asociación de cultivos, lo que lleva a lograr, con éxito, una producción que es amigable con el ambiente y que no causa alteraciones en los ciclos de recursos no renovables. 
+          br
+          br
+          | A continuación, se evidencian algunas labores que se realizan en producciones limpias.
+
+
     br
 
-    separador
+    p.mb-5 A continuación, se evidencian algunas labores que se realizan en producciones limpias.
 
-    br
+    h2 Labores de producción alternativa
+
+    p Las labores en la producción alternativa asociadas a la ganadería ecológica se encuentran descritas a continuación.
+    p.mb-5 El bienestar animal requiere de lugares adaptados, que cuenten con los espacios apropiados, para atender las necesidades sanitarias. 
 
     .row.container.justify-content-around.align-items-center
         
         figure
               img(src="@/assets/curso/temas/img-fondo-izq-prod-altern-tema1.png", alt="alt").img-fondo-izq-prod-alternativa
+          
+        
 
-        
-        #labores-de-produccion-alternativa
-        .titulo-segundo.color-acento-contenido
-          h2 1.3  Labores de producción alternativa
-        
-        p Las labores en la producción alternativa asociadas a la ganadería ecológica se encuentran descritas a continuación.
 
         .row.justify-content-center.mb-5
           .col-lg-5
@@ -151,9 +132,9 @@
 
               p(numero="2" titulo="Uso de abonos verdes") Aportar materia orgánica para aumentar fertilidad y vida al suelo. 
 
-              p(numero="3" titulo="Rotación de cultivo") Aumenta la biodiversidad y aumenta los nutrientes del suelo, al tiempo que aprovecha las propiedades alelopáticas y evita la acumulación de tóxicos y de extracción de nutrientes.
+              p(numero="3" titulo="Rotación de cultivo") Aumenta la biodiversidad y los nutrientes del suelo, al tiempo que aprovecha las propiedades alelopáticas, evita la acumulación de tóxicos y extracción de nutrientes. 
 
-              p(numero="4" titulo="Asociación de cultivos") Aumenta la biodiversidad y aumenta los nutrientes del suelo, al tiempo que aprovecha las propiedades alelopáticas, evita la acumulación de tóxicos y de extracción de nutrientes, y mantiene cubierto el suelo.
+              p(numero="4" titulo="Asociación de cultivos") Aumenta la biodiversidad y los nutrientes del suelo, al tiempo que aprovecha las propiedades alelopáticas, evita la acumulación de tóxicos y extracción de nutrientes, y mantiene cubierto el suelo. 
 
               p(numero="5" titulo="Controles biológicos") Proporciona y mantiene el equilibrio de la biodiversidad, evitando plagas y enfermedades.
 
