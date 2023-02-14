@@ -128,7 +128,7 @@ export default {
       tema: 'Principios de la ganadería agroecológica',
       referencia:
         'Ecología Verde. (2018). ¿Qué es la agroecología? [video]. YouTube. ',
-      tipo: 'video',
+      tipo: 'Video',
       link: 'https://youtu.be/NJ1CBZ34WyQ',
     },
   ],
@@ -197,7 +197,7 @@ export default {
     },
     {
       referencia:
-        ' Fedegan. (s.f.). <em>Buenas prácticas ganaderas. Fedegan.</em>',
+        'Fedegan. (s.f.). <em>Buenas prácticas ganaderas. Fedegan.</em>',
       link: 'https://www.fedegan.org.co/programas/buenas-practicas-ganaderas',
     },
     {
