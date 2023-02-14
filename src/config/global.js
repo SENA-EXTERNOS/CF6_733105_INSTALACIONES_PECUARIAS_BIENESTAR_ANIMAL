@@ -10,10 +10,6 @@ export default {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.png'),
       },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/imagen-pcincipal-circulo.png'),
-      },
     ],
   },
   menuPrincipal: {
@@ -33,7 +29,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Principios de ganadería agroecológica',
+        titulo: 'Principios de la ganadería agroecológica',
         desarrolloContenidos: true,
       },
 
@@ -125,7 +121,7 @@ export default {
       tema: 'Alojamiento de las especies pecuarias de interés zootécnico',
       referencia:
         'García, A. y Patiño, E. (s.f.).<i> Guía 7: Pecuarias.</i> Servicio Nacional de Aprendizaje. ',
-      tipo: 'Otro',
+      tipo: 'PDF',
       link: 'https://www.webcolegios.com/file/c90ff8.pdf',
     },
     {
@@ -189,7 +185,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Cardona, A., Henao, S., Jiménez, H., Mejía, G., Muñoz, F., Naranjo, J., Palomino, P., Ramírez, R., Ruiz, J. & Úsuga, A. (2018).<i> Implementación de buenas prácticas ganaderas: principios básicos.</i> Universidad CES.',
+        'Palomino, P., Jiménez, H., Naranjo, J., Henao, S., Ramírez, R., Cardona, A., Úsuga, A., Ruiz, J., Mejía, G & Muñoz, F. (2018). <em>Implementación de buenas prácticas ganaderas: principios básicos.</em> Universidad CES.',
       link:
         'https://repository.ces.edu.co/bitstream/handle/10946/3585/Implemetaci%F3n-de-Buenas-Pr%E1cticas-Ganaderas-principios-b%E1sicos.pdf;jsessionid=001849FA9CBB8A7D4CACEAF2CD4E5E52?sequence=1',
     },

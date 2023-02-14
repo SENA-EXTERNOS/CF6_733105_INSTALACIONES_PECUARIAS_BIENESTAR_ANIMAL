@@ -47,7 +47,7 @@
 
             p.mb-5 La dinámica de los ciclos varía según la especie, por lo que es importante conocer y diferenciar los tiempos, etapas y ciclos productivos de cada animal. 
             
-            h4 Ganadería de leche:
+            h3 a. Ganadería de leche
 
             p Ciclos productivos en ganadería de leche
 
@@ -57,11 +57,12 @@
                 | La vida productiva de una vaca lechera comprende dos etapas: crianza y producción. 
               li 
                 i.fas.fa-atom.nar
-                | <em>Crianza: </em> nacimiento al primer parto.
+                p <em> Crianza:</em>  &nbsp;
+                | nacimiento al primer parto.
 
               li 
                 i.fas.fa-atom.nar
-                | <em>Producción: </em>primer parto hasta su sacrificio. 
+                p <em>Producción:</em> &nbsp; primer parto hasta su sacrificio. 
               li 
                 i.fas.fa-atom.nar
                 | El sacrificio se determina según la baja producción, la poca fertilidad, o el mal manejo de enfermedades.
@@ -75,36 +76,27 @@
       br
       br    
               
-      .row.container.justify-content-around.align-items-center
+      .row.container.justify-content-around
 
-        .row.fila-ciclo-prod-ganaderia
-            .col-lg-4
-
-              figure
-                img(src='@/assets/curso/temas/img-cria-y-recria.png' alt='AvatarTop')
-              .bloque-textos-ciclo-prod-ganaderia
-                h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Cría y recría:
-                p etapa en la cual aún se alimentan de leche y necesita de la madre para sobrevivir e inicio de la pubertad.
+        .col-lg-4
+          figure.mb-4
+            img(src='@/assets/curso/temas/img-cria-y-recria.png' alt='AvatarTop')
+          h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Cría y recría
+          p Etapa en la cual aún se alimentan de leche y necesita de la madre para sobrevivir e inicio de la pubertad.
 
 
-            .col-lg-4
-
-              figure
-                img(src='@/assets/curso/temas/img-primer-servicio.png' alt='AvatarTop')
-              
-              .bloque-textos-ciclo-prod-ganaderia
-                h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Primer servicio:
-                p inicio de la actividad reproductiva.
+        .col-lg-4
+          figure.mb-4
+            img(src='@/assets/curso/temas/img-primer-servicio.png' alt='AvatarTop')
+          h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Primer servicio
+          p Inicio de la actividad reproductiva.
 
 
-            .col-lg-4
-
-              figure
-                img(src='@/assets/curso/temas/img-primera-aparicion.png' alt='AvatarTop')
-              
-              .bloque-textos-ciclo-prod-ganaderia
-                h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Cría y recría:
-                p la vaca da a luz e inicia la producción de leche e inicia su etapa de vida adulta.
+        .col-lg-4
+          figure.mb-4
+            img(src='@/assets/curso/temas/img-primera-aparicion.png' alt='AvatarTop')
+          h4.subtitulo-texto-ciclo-prod-ganaderia.text-center Primera aparición
+          p La vaca da a luz e inicia la producción de leche e inicia su etapa de vida adulta.
 
       br
       br
@@ -125,7 +117,7 @@
 
 
       .row.container.justify-content-around.align-items-center
-          h3 Ganadería de Carne
+          h3 b. Ganadería de Carne
 
           p.mb-5 Las etapas productivas del ganado de carne, según los ciclos productivos, comprenden la cría, el levante, la ceba y el sacrificio, como veremos a continuación:
 
@@ -173,7 +165,7 @@
         
 
       h2 Ciclo productivo para las aves
-      p.mb-5 Los ciclos productivos de las aves difieren a otras especies, depende si son pollos de engorde o gallinas ponedoras. A continuación, se brinda mayor información: 
+      p.mb-5 Los ciclos productivos de las aves difieren de otras especies y depende de, si son pollos de engorde o gallinas ponedoras. A continuación, se brinda mayor información:
 
       .row.container.justify-content-around.align-items-center
         

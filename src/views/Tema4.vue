@@ -38,7 +38,8 @@
           
             .titulo-sexto.color-acento-contenido.texto-titulo-fig6-tema5.mb-3
               h5 Tabla 1
-              span <em>Espacio requerido para bovinos en crianza intensiva</em>
+              p.mb-0 
+                em Espacio requerido para bovinos en crianza intensiva
             
             .col-lg-12
                 figure
@@ -59,7 +60,8 @@
           
           .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 2
-              span <em>Densidad de pollos según la edad</em>
+              p.mb-0 
+                em Densidad de pollos según la edad
 
           .row.bloque-comp-pollo-engorde
 
@@ -86,7 +88,8 @@
           
           .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 3
-              span <em>Densidad de gallinas según la etapa</em>
+              p.mb-0 
+                em Densidad de gallinas según la etapa
 
           .row.bloque-comp-pollo-engorde
 
@@ -116,7 +119,8 @@
 
           .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 4
-              span <em>Áreas de acuerdo con la edad y peso de los cerdos</em>
+              p.mb-0 
+                em Áreas de acuerdo con la edad y peso de los cerdos
 
 
           .row.bloque-comp-pollo-engorde

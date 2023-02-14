@@ -208,7 +208,7 @@
 
     .row.container.justify-content-around.align-items-center
       
-      h4 Instalaciones para aves 
+      h2 Instalaciones para aves 
 
       p Si bien las instalaciones para aves difieren de las de cerdos y bovinos, cumplen con las mismas funciones que ofrecen las demás instalaciones pecuarias. A continuación, se detallan estas instalaciones: 
       p A continuación, se darán algunas características a tener en cuenta para las instalaciones pecuarias para aves:

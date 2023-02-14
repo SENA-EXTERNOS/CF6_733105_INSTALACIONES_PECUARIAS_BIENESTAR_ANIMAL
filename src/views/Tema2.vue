@@ -19,6 +19,7 @@
           p.fnd-2.p-4 En el marco del bienestar animal, como proceso clave de la producción agropecuaria, es fundamental considerar, apropiar y aplicar las buenas prácticas pecuarias (BPP); estas comprenden actividades en torno al bienestar animal y a la productividad, asegurando que ningún proceso interfiera con el bienestar ambiental, animal y, por supuesto, con la salud humana.
 
         .col-lg-5
+          h5.mb-0.text-center Necesidades de bienestar animal
 
           figure
               img(src="@/assets/curso/temas/img-tar1-tema2.png", alt="alt").img-tar1-verde-tema2

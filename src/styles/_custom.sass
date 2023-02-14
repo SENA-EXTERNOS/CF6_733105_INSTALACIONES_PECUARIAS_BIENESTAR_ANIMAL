@@ -5,12 +5,6 @@
     top: 3%
     right: 3%
     width: 107%
-  &-2
-    animation: ease-in-out infinite alternate
-    position: absolute
-    top: 7%
-    right: 8%
-    width: 93%
 
 
 @keyframes float1
@@ -45,7 +39,6 @@
 
 .fondo-tarj-conectadas-tema1
   position: relative
-  left: 10%
   background-color: #F6F6F6
 
 .color-fondo-tar-conectadas-tema1
@@ -605,8 +598,48 @@
   position: relative
   top: 2.5em
 
-.banner-interno__titulo__icono
-  background-color:  black !important
 
-.fa-sitemap:before
-  color: #81ad20
+
+.fnd-11
+  background-color: #F6F6F6
+  padding: 1rem !important
+  border-radius: 1rem
+
+
+.banner-principal__img // ajuste M
+  width: 400px !important
+  
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2)) 
+
+.crdd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F6F6F6
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    		
+	
