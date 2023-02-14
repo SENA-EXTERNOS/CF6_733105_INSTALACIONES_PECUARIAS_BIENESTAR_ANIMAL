@@ -48,24 +48,24 @@
             p.mb-5 La dinámica de los ciclos varía según la especie, por lo que es importante conocer y diferenciar los tiempos, etapas y ciclos productivos de cada animal. 
             
             h3 a. Ganadería de leche
-
-            p Ciclos productivos en ganadería de leche
+            p A continuación, se describen los ciclos productivos de la ganadería de leche:
+            p Ciclos productivos en ganadería de leche:
 
             ul.lista-ul--color
               li 
                 i.fas.fa-atom.nar
-                | La vida productiva de una vaca lechera comprende dos etapas: crianza y producción. 
+                p.mb-0 La vida productiva de una vaca lechera comprende dos etapas: crianza y producción. 
               li 
                 i.fas.fa-atom.nar
-                p <em> Crianza:</em>  &nbsp;
+                p.mb-0 <em> Crianza:</em>  &nbsp;
                 | nacimiento al primer parto.
 
               li 
                 i.fas.fa-atom.nar
-                p <em>Producción:</em> &nbsp; primer parto hasta su sacrificio. 
+                p.mb-0 <em>Producción:</em> &nbsp; primer parto hasta su sacrificio. 
               li 
                 i.fas.fa-atom.nar
-                | El sacrificio se determina según la baja producción, la poca fertilidad, o el mal manejo de enfermedades.
+                p.mb-0 El sacrificio se determina según la baja producción, la poca fertilidad, o el mal manejo de enfermedades.
 
           .col-lg-4
             
