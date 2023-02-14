@@ -109,7 +109,7 @@
 
     br
 
-    p.mb-5 A continuación, se evidencian algunas labores que se realizan en producciones limpias.
+    p.mb-5 A continuación, se evidencian algunas labores que se realizan en producciones limpias:
 
     h2 Labores de producción alternativa
 
