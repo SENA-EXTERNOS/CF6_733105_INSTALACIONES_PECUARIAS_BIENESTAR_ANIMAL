@@ -34,7 +34,7 @@
                 //figcaption Leyenda de la imagen
 
             .col-md-6.mb-4.mb-md-0
-                p.texto-slider-tema3 Al diseñar las instalaciones para cualquier especie pecuaria, se debe tomar en consideración el confort y la salud de los animales, la alimentación y la limpieza, como también, las condiciones higiénicas para la producción de los productos de acuerdo a cada especie pecuaria.
+                p.texto-slider-tema3 Al diseñar las instalaciones para cualquier especie pecuaria, se debe tomar en consideración el confort y la salud de los animales, la alimentación y la limpieza, como también, las condiciones higiénicas para la producción, de los productos de acuerdo a cada especie pecuaria.
 
 
           .row.justify-content-center.align-items-center.my-lg-4
@@ -181,7 +181,7 @@
                 
                 .row(titulo="Techos")
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Inclinación para evitar represión de agua, la parte alta de 2.5 a 3 m. y la baja de 2 m todo depende de la ventilación necesaria, por lo menos necesitamos cubrir el 60 % se pueden usar materiales como el zinc, teja de barro, palma, etc.
+                    p.texto-fondo-acordeon-tema3.mb-0 Inclinación para evitar represión de agua, la parte alta de 2.5 a 3 m. y la baja de 2 m todo depende de la ventilación necesaria, por lo menos necesitamos cubrir el 60 %, se pueden usar materiales como el zinc, teja de barro, palma, etc.
                 
                 .row(titulo="Puertas")
                   .col-12
@@ -228,7 +228,7 @@
 
                 .row(titulo="Dimensiones").tar3-acordeon-tema3
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Se recomienda un ancho entre 10 a 12 m, si esta medida fuese mayor no habría remoción de aire, aumentando la humedad y la temperatura. La altura en las paredes laterales debe ser de 2,75 m y, la parte central, de 3 m para climas fríos y de 4.5m en las paredes laterales y 5m en el centro, para climas cálidos.
+                    p.texto-fondo-acordeon-tema3.mb-0 Se recomienda un ancho entre 10 a 12 m, si esta medida fuese mayor no habría remoción de aire, aumentando la humedad y la temperatura. La altura en las paredes laterales debe ser de 2,75 m y, la parte central, de 3 m para climas fríos y de 4.5 m en las paredes laterales y 5 m en el centro, para climas cálidos.
 
                 .row(titulo="Paredes").tar4-acordeon-tema3
                   .col-12

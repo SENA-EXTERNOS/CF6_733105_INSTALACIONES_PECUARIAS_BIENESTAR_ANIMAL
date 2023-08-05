@@ -253,18 +253,18 @@
         p El clima es una variable que causa efectos y que condiciona los sistemas productivos, viéndose afectados, directa e indirectamente, por él. Esta variable modifica la calidad y la cantidad de alimentos dispuestos para la alimentación. Igualmente, los animales hacen modificaciones fisiológicas cuando las condiciones de clima son adversas para poder mantener la temperatura corporal y para no sufrir consecuencias y alteraciones dentro de su funcionamiento. Es importante controlar las consecuencias de la temperatura para mantener los índices productivos.
         p Reconozca algunos de los factores climáticos que más se deben considerar en la producción:
 
-        .row.justify-content-center.align-items-center.mb-5.fnd-3
+        .row.justify-content-center.align-items-center.mb-5
           .col-lg-11.col-md-12
-            ImagenInfografica.color-primario.bbt.fnd-3
+            ImagenInfografica.color-primario.bbt
               template(v-slot:imagen)
                 figure.m-4
                   img(src='@/assets/curso/temas/img-punto-caliente2-tema5.png', alt='Texto que describa la imagen')
 
-              .tarjeta.color-acento-botones.p-3(x="106%" y="7%" numero="1")
+              .tarjeta.color-acento-botones.p-3(x="71%" y="7%" numero="1")
                 .h5.mb-2 Temperatura ambiental
                 p La temperatura es la variable más estudiada, siendo la que se usa, con mayor frecuencia, para medir el estrés. La temperatura afecta la zona de confort de los animales e influye en la productividad y el bienestar animal. Cuando la temperatura incrementa, aumenta el consumo de agua y afecta la ingesta de alimento. Por otro lado, el exceso de aguas por lluvias, perjudica las praderas, el comportamiento y el metabolismo animal.
 
-              .tarjeta.color-acento-botones.p-3(x="106%" y="93%" numero="2")
+              .tarjeta.color-acento-botones.p-3(x="71%" y="93%" numero="2")
                 .h5.mb-2 Humedad relativa
                 p Factor potencial de estrés. La humedad del aire reduce la tasa de pérdida de calor del animal. La efectividad de la disipación del calor de la piel y del sistema respiratorio dependerán, también, de esta variable.
 
@@ -301,7 +301,7 @@
 
         .col-lg-7
           .texto-tarj-tema1.p-4
-            p La producción agrícola es la práctica por la cual se obtienen productos de buena calidad, económicamente rentables y amigables con el ambiente. Para alcanzar estos objetivos, se deben tener en cuenta variables y principios de ganadería en alternancia con la producción alternativa, como también, los conceptos básicos de bienestar animal y las necesidades de los sistemas productivos, para, así, poder llegar a buenas prácticas que tengan en cuenta los lineamientos que el ICA. 
+            p La producción agrícola es la práctica por la cual se obtienen productos de buena calidad, económicamente rentables y amigables con el ambiente. Para alcanzar estos objetivos, se deben tener en cuenta variables y principios de ganadería en alternancia con la producción alternativa, como también, los conceptos básicos de bienestar animal y las necesidades de los sistemas productivos, para, así, poder llegar a buenas prácticas que tengan en cuenta los lineamientos que el ICA establezca. 
             p Recuerde explorar todos los recursos disponibles en este componente formativo; para ello, diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, el material complementario, entre otros recursos. 
 
 
