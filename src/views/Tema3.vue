@@ -34,7 +34,7 @@
                 //figcaption Leyenda de la imagen
 
             .col-md-6.mb-4.mb-md-0
-                p.texto-slider-tema3 Al diseñar las instalaciones para cualquier especie pecuaria, se debe tomar en consideración el confort y la salud de los animales, la alimentación y la limpieza, como también, las condiciones higiénicas para la producción, de los productos de acuerdo a cada especie pecuaria.
+                p.texto-slider-tema3 Al diseñar las instalaciones para cualquier especie pecuaria, se debe tomar en consideración el confort y la salud de los animales, la alimentación y la limpieza, como también, las condiciones higiénicas para la producción, de acuerdo a cada especie pecuaria.
 
 
           .row.justify-content-center.align-items-center.my-lg-4
