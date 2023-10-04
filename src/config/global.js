@@ -141,7 +141,7 @@ export default {
     {
       termino: 'Bioseguridad',
       significado:
-        'parte de la biología que estudia el uso seguro de los recursos biológicos y genéticos',
+        'parte de la biología que estudia el uso seguro de los recursos biológicos y genéticos.',
     },
     {
       termino: 'Buenas prácticas',

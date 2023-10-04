@@ -73,7 +73,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/normativa-bpg-tema2.png' alt='AvatarTop')
-            h2.text-center Normativa buenas prácticas ganaderas.
+            h2.text-center Normativa buenas prácticas ganaderas
             p.text-center Para implementar cada uno de los componentes de las BPG, se debe realizar un registro de cada una de las actividades relacionadas con el sector ganadero, además, se debe contar con una planilla de verificación en la cual se debe llevar control de la actividad realizada.
             p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia dolorem cumque quidem. Tempore sit, quibusdam minima excepturi officia eaque. Itaque fugiat mollitia alias eaque. Itaque fugiat mollitia alias 
 

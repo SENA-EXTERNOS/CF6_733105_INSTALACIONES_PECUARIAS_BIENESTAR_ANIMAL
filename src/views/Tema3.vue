@@ -149,7 +149,7 @@
 
         h2 Instalaciones para porcinos
         
-        p Las instalaciones pecuarias para los porcinos se diferencian de las de los bovinos. A continuación, se detallan algunas características a tener en cuenta, en las instalaciones pecuarias para porcinos:
+        p.mb-5 A continuación, se detallan algunas características a tener en cuenta, en las instalaciones pecuarias para porcinos:
 
         .bg--img_03
           .row.justify-content-center.mb-4
@@ -185,7 +185,7 @@
                 
                 .row(titulo="Puertas")
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Que abran hacia afuera, no hacia adentro, su altura puede ser de 80cm, y ser construidas en hierro o madera.
+                    p.texto-fondo-acordeon-tema3.mb-0 Que abran hacia afuera, no hacia adentro, su altura puede ser de 80 cm, y ser construidas en hierro o madera.
                     
                 .row(titulo="Comederos y bebedero")
                   .col-12
@@ -232,7 +232,7 @@
 
                 .row(titulo="Paredes").tar4-acordeon-tema3
                   .col-12
-                    p.texto-fondo-acordeon-tema3.mb-0 Las culatas frontales serán de ladrillo o bloque para resistir la presión de los vientos, también, deben medir de 2.75 a 3.25 m. Las paredes posteriores en clima cálido tendrán 40 cm y en el clima 80 cm.
+                    p.texto-fondo-acordeon-tema3.mb-0 Las culatas frontales serán de ladrillo o bloque para resistir la presión de los vientos, también, deben medir de 2.75 a 3.25 m. Las paredes posteriores en clima cálido tendrán 40 cm y en el clima frío 80 cm.
 
                 .row(titulo="Área para insumos").tar5-acordeon-tema3
                   .col-12

@@ -38,7 +38,7 @@
                 img(src="@/assets/curso/temas/img-man-reproductivo-tema1.png", alt="alt").img100.imagenes-tarj-conectadas-tema1
             .col
               h5.texto-tarj-conectadas-tema1 Manejo reproductivo
-              p.texto-tarj-conectadas-tema1 Algunas de las recomendaciones a tener en cuenta es la no utilización de hormonas, de urea y de medicamentos que no cuenten certificado su uso; con la excepción de casos de emergencia. Igualmente, con respecto a los animales, solo se permite el manejo reproductivo natural y, en ningún caso, la utilización de métodos de inducción de celo. A su vez, se prohíbe el destete precoz y las mutilaciones, a no ser que sean recomendadas por un médico veterinario.
+              p.texto-tarj-conectadas-tema1 Algunas de las recomendaciones a tener en cuenta es la no utilización de hormonas, de urea y de medicamentos que no cuenten con certificado de uso; con la excepción de casos de emergencia. Igualmente, con respecto a los animales, solo se permite el manejo reproductivo natural y, en ningún caso, la utilización de métodos de inducción de celo. A su vez, se prohíbe el destete precoz y las mutilaciones, a no ser que sean recomendadas por un médico veterinario.
         .crd.crd--avatarHorizontal.fondo-tarj-conectadas-tema1.tar3-conectadas-tema1.tarjeta.py-4
           .row.align-items-center
             .col-auto
