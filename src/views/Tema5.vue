@@ -117,14 +117,13 @@
 
 
       .row.container.justify-content-around.align-items-center
-          h3 b. Ganadería de Carne
+        h3 b. Ganadería de Carne
 
-          p.mb-5 Las etapas productivas del ganado de carne, según los ciclos productivos, comprenden la cría, el levante, la ceba y el sacrificio, como veremos a continuación:
+        p.mb-5 Las etapas productivas del ganado de carne, según los ciclos productivos, comprenden la cría, el levante, la ceba y el sacrificio, como veremos a continuación:
 
-          .row 
-            .col-lg-10
-              figure
-                  img(src='@/assets/curso/temas/img-ganaderia-de-carne.png' alt='AvatarTop').img-ganaderia-de-carne
+        .row.justify-content-around.align-items-center
+          figure
+            img(src='@/assets/curso/temas/img-ganaderia-de-carne.png' alt='AvatarTop').img-ganaderia-de-carne
       
       br
       br
